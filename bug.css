@@ -1,0 +1,1 @@
+This bug occurs when using Tailwind CSS's `@apply` directive with custom styles defined using the `@layer` directive. If the custom styles are not applied correctly, it can result in unexpected visual issues or missing styles.
